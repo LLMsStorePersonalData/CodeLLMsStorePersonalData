@@ -8,7 +8,7 @@ This repository contains all code to run experiments of the paper ``Position: Ma
 
 ### Prerequisites and Installation
 
-Install the memit toolkit from [https://github.com/kmeng01/memit]{https://github.com/kmeng01/memit] 
+Install the memit toolkit from {https://github.com/kmeng01/memit}[https://github.com/kmeng01/memit] 
 
 Additional run 
   ```
